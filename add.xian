@@ -1,0 +1,14 @@
+{{>head}}
+
+    <form action="/insert" method="POST">
+        <label form="Name"></label>
+        <input type="text" name="Name" placeholder="Name">
+        <label form="Name"></label>
+        <input type="text" name="Name" placeholder="Name">
+        <label form="Name"></label>
+        <input type="text" name="Name" placeholder="Name">
+        <label form="Name"></label>
+        <input type="text" name="Name" placeholder="Name">
+        <label form="Name"></label>
+        <input type="text" name="Name" placeholder="Name">   
+      </form>
